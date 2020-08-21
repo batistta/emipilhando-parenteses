@@ -1,0 +1,7 @@
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\bin\Debug\Verifica_parenteses_pilha.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\bin\Debug\Verifica_parenteses_pilha.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\bin\Debug\Verifica_parenteses_pilha.pdb
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\obj\Debug\Verifica_parenteses_pilha.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\obj\Debug\Verifica_parenteses_pilha.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\obj\Debug\Verifica_parenteses_pilha.exe
+C:\Users\assue\Desktop\COISAS FACUL\AED\Verifica_parenteses_pilha\Verifica_parenteses_pilha\obj\Debug\Verifica_parenteses_pilha.pdb
